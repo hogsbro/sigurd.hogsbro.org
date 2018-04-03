@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/shogsbro
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sigurd.hogsbro.org
+  * I am shogsbro (https://keybase.io/shogsbro) on keybase.
+  * I have a public key ASCfQBdtijnRVR2MyUjKxEEYcEcuYibYuip5QfRzUdkRwQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200779923742958e606706240a98f02ffb13f7f608abe299468cd4061bf2f052dd0a",
+      "host": "keybase.io",
+      "kid": "01209f40176d8a39d1551d8cc948cac4411870472e6226d8ba2a7941f47351d911c10a",
+      "uid": "717ed857321dfec9643334e70d403b19",
+      "username": "shogsbro"
+    },
+    "merkle_root": {
+      "ctime": 1522729649,
+      "hash": "883741eef842499b1406ac546e8dc16b0785e30ba5820d75c2d939dd7ca9dc380b7584d9339756e345ec97e21827a1192a9dd1841c6e6b9998928c14f4fa65b2",
+      "hash_meta": "a73ed25bc4c0d3167969a7da6dbed3236cbbe08d3ee5207f3db96ab96f3be618",
+      "seqno": 2326118
+    },
+    "service": {
+      "hostname": "sigurd.hogsbro.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1522729772,
+  "expire_in": 504576000,
+  "prev": "e3d93cbc2fcbf707b95cd52ec165d86c09367cc4b8970735b5253537eab99b40",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgn0AXbYo50VUdjMlIysRBGHBHLmIm2LoqeUH0c1HZEcEKp3BheWxvYWTFA0t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMDc3OTkyMzc0Mjk1OGU2MDY3MDYyNDBhOThmMDJmZmIxM2Y3ZjYwOGFiZTI5OTQ2OGNkNDA2MWJmMmYwNTJkZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOWY0MDE3NmQ4YTM5ZDE1NTFkOGNjOTQ4Y2FjNDQxMTg3MDQ3MmU2MjI2ZDhiYTJhNzk0MWY0NzM1MWQ5MTFjMTBhIiwidWlkIjoiNzE3ZWQ4NTczMjFkZmVjOTY0MzMzNGU3MGQ0MDNiMTkiLCJ1c2VybmFtZSI6InNob2dzYnJvIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIyNzI5NjQ5LCJoYXNoIjoiODgzNzQxZWVmODQyNDk5YjE0MDZhYzU0NmU4ZGMxNmIwNzg1ZTMwYmE1ODIwZDc1YzJkOTM5ZGQ3Y2E5ZGMzODBiNzU4NGQ5MzM5NzU2ZTM0NWVjOTdlMjE4MjdhMTE5MmE5ZGQxODQxYzZlNmI5OTk4OTI4YzE0ZjRmYTY1YjIiLCJoYXNoX21ldGEiOiJhNzNlZDI1YmM0YzBkMzE2Nzk2OWE3ZGE2ZGJlZDMyMzZjYmJlMDhkM2VlNTIwN2YzZGI5NmFiOTZmM2JlNjE4Iiwic2Vxbm8iOjIzMjYxMTh9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic2lndXJkLmhvZ3Nicm8ub3JnIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDUifSwiY3RpbWUiOjE1MjI3Mjk3NzIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiZTNkOTNjYmMyZmNiZjcwN2I5NWNkNTJlYzE2NWQ4NmMwOTM2N2NjNGI4OTcwNzM1YjUyNTM1MzdlYWI5OWI0MCIsInNlcW5vIjoxNSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEC9EdjrIfGhaOY9Ay3vFbw4Kk4pBrZpDosOtTHoNk6y6BuZ62zO7UztvGF3JHBvt9h7aVhta05/22NvvdDggIoAqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgsdl/4gOZgK9tvtTr4+miSrESx/z2s7tLbLwEMcukQYyjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shogsbro
+
+==================================================================
